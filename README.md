@@ -29,7 +29,7 @@ Aqui você encontrará projetos acadêmicos, exercícios de programação e apli
 ### 📫 Contato
 
 - GitHub: [Meu perfil](https://github.com/marina-oliveira-dev)
-- LinkedIn: [Meu perfil](www.linkedin.com/in/marina--oliveira)
+- LinkedIn: (www.linkedin.com/in/marina--oliveira)
 
 ---
 

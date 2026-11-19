@@ -11,7 +11,6 @@ Atualmente estou no segundo período de Ciência da Computação, desenvolvendo 
 - Kotlin
 - HTML
 - CSS
-- Git e GitHub
 
 ### Atualmente estudando:
 - Lógica de Programação
@@ -26,7 +25,7 @@ Busco uma oportunidade de estágio em Desenvolvimento de Software ou na Área de
 ### Projetos
 Aqui você encontrará projetos acadêmicos, exercícios de programação e aplicações desenvolvidas durante minha jornada na Ciência da Computação.
 
-### 📫 Contato
+### Contato
 
 - GitHub: [Meu perfil](https://github.com/marina-oliveira-dev)
 - LinkedIn: (www.linkedin.com/in/marina--oliveira)
